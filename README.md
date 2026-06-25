@@ -33,4 +33,4 @@ I care deeply about performance, accessibility, and intuitive UI/UX design
 
 ## 📱 Contact
 
-**Discord:** shizzu20
+**Discord:** szzu00
