@@ -1,4 +1,4 @@
-👋 Hi, I’m **Luca** (aka **shizzu20**)  
+👋 Hi, I’m **Luca** (aka **szzu00**)  
 Frontend Developer from **Bavaria 🇩🇪**  
 I build modern, responsive user interfaces with clean, maintainable code
 
